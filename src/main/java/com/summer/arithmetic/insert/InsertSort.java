@@ -9,7 +9,7 @@ import com.summer.arithmetic.PrintUtil;
  */
 public class InsertSort {
     public static void main(String[] args) {
-        method2();
+        method1();
     }
 
     public static void method1() {
